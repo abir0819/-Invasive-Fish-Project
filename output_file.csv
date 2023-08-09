@@ -1,0 +1,834 @@
+NAME,Species,Origin, latitude, longitude
+ALMA,Brook Trout,Natural Occurrence,44.61747021,-65.11334442
+BAILLE,Yellow Perch,Natural Occurrence,44.59785927,-65.47956774
+BEELERS,White Perch,Natural Occurrence,44.6520984,-65.51864209
+BIG MOLLY UPSIM,Smallmouth Bass,Illegal Introduction,44.66552132,-65.04534414
+BOOT,Yellow Perch,Natural Occurrence,44.57182044,-65.38338636
+CADY,American Eel,Natural Occurrence,44.61241312,-65.50157467
+CONNELL,Brook Trout,Natural Occurrence,44.7233945,-65.04600676
+CROSKILL,American Eel,Natural Occurrence,44.87466409,-65.31303702
+ELEVEN MILE,Yellow Perch,Natural Occurrence,44.5307319,-65.28841351
+ELLIOT,Tiger Trout,Legal Introduction,44.94095212,-65.18338574
+FED,Nine Spine Stickleback,Natural Occurrence,44.58708857,-65.57966315
+FISHER,Brook Trout,Natural Occurrence,44.54828957,-65.34154828
+GIBONS,Brook Trout,Natural Occurrence,44.71603007,-65.3048998
+GRAND,Smallmouth Bass,Illegal Introduction,44.64359916,-65.47091167
+JERRY,Yellow Perch,Natural Occurrence,44.71162955,-65.43025148
+LAKE PLEASANT,White Perch,Natural Occurrence,44.6188037,-64.87189091
+LAMB,Smallmouth Bass,Illegal Introduction,44.66830584,-65.44815692
+LAROSE,Banded Killifish,Natural Occurrence,44.71292816,-65.44111276
+LILY,Banded Killifish,Natural Occurrence,44.63606649,-63.85403751
+LIVERPOOL HEAD,Yellow Perch,Natural Occurrence,44.58022233,-65.40344264
+LOWER SIXTY,Brook Trout,Stocking Program,44.72329329,-64.81565811
+LOWER WRIGHTS,Atlantic Salmon,Natural Occurrence,44.72595072,-65.36561658
+MCGILL,Smallmouth Bass,Illegal Introduction,44.6856202,-65.00852272
+MILBURY,Brook Trout,Natural Occurrence,44.82683764,-65.45643041
+MILETREE,Brook Trout,Natural Occurrence,44.68583963,-64.93854516
+MILL,White Perch,Natural Occurrence,44.47806243,-65.1304846
+MUDFLAT,White Perch,Natural Occurrence,44.47193133,-65.15018928
+MULGRAVE,Brook Trout,Natural Occurrence,44.50586511,-65.47904636
+MUNROE,Brook Trout,Natural Occurrence,44.52896237,-65.33137237
+PARADISE,Smallmouth Bass,Illegal Introduction,44.7637835,-65.16958464
+PAT KEMPTON,Yellow Perch,Natural Occurrence,44.43331098,-65.18333689
+PERCH,White Perch,Natural Occurrence,44.49650449,-65.10206326
+PITTS,Brook Trout,Natural Occurrence,44.58753721,-65.40662909
+PRETTY MARY,Brook Trout,Natural Occurrence,44.46941512,-65.1594883
+QUILTY,Yellow Perch,Natural Occurrence,44.72519146,-65.03613222
+RAMSEY,Banded Killifish,Natural Occurrence,44.89553181,-65.27356164
+ROUND,Yellow Perch,Natural Occurrence,44.50125527,-64.99277078
+RUMSEY,Brown Bullhead,Unknown,44.89553181,-65.27356164
+SANDY BOTTOM,Yellow Perch,Natural Occurrence,44.58529478,-65.43595092
+SECOND,Brook Trout,Natural Occurrence,44.68504052,-65.48608755
+SHANNON,White Perch,Natural Occurrence,44.74311857,-65.004905
+SIMPSONS,White Sucker,Natural Occurrence,44.56758618,-65.51362998
+SPECTACLE 1,Three Spine Stickleback,Natural Occurrence,44.71063606,-65.15235957
+SPECTACLE 2,Three Spine Stickleback,Natural Occurrence,44.71063606,-65.15235957
+SPRINGFIELD,White Perch,Natural Occurrence,44.63639659,-64.85853705
+SUNDOWN,Brook Trout,Natural Occurrence,44.5409069,-65.41077344
+TOMMY,Yellow Perch,Natural Occurrence,44.58185003,-64.99151732
+TROUT,Brook Trout,Natural Occurrence,44.77473301,-65.06955751
+TWIN,Yellow Perch,Natural Occurrence,44.48132543,-65.24215428
+UPPER,Yellow Perch,Natural Occurrence,44.49634519,-65.53133181
+UPPER MINK,Brook Trout,Natural Occurrence,44.55249699,-65.4582887
+UPPER WRIGHTS,Brook Trout,Natural Occurrence,44.73506822,-65.36874175
+VIEW,Brook Trout,Natural Occurrence,44.5270519,-65.34552932
+WAMBOLDT,Brown Bullhead,Natural Occurrence,44.85163871,-65.04306482
+WATERLOO,Smallmouth Bass,Illegal Introduction,44.73073704,-64.9767063
+WILD DUCK,Brook Trout,Natural Occurrence,44.61461897,-64.92859861
+YOUNG,Smallmouth Bass,Illegal Introduction,44.81916673,-65.44053469
+ZWICKERS,Brook Trout,Natural Occurrence,44.73329476,-65.03606303
+CAMERON,Brook Trout,Natural Occurrence,45.51537971,-61.98110836
+GASPEREAUX,White Perch,Natural Occurrence,45.55606523,-62.05444212
+GILLIS,Brook Trout,Natural Occurrence,45.52529503,-61.97263142
+JAMES RIVER RESERVOIR,Brook Trout,Natural Occurrence,45.59998599,-62.13333201
+KIMBALLS,Brook Trout,Natural Occurrence,45.36194584,-61.90726777
+LITTLE,Brook Trout,Natural Occurrence,45.61696096,-61.83557667
+LOCH KATRINE,Brown Trout,Legal Introduction,45.4333026,-61.93332724
+LOCHABER,Brook Trout,Natural Occurrence,45.42155572,-62.02917059
+MCGILLIVRAY,Yellow Perch,Natural Occurrence,45.50854948,-61.92339363
+ST JOSEPHS,Brook Trout,Natural Occurrence,45.53584416,-62.08033278
+STEWART,American Eel,Natural Occurrence,45.47719654,-62.03072324
+TRACADIE,Brook Trout,Natural Occurrence,45.61984368,-61.60298895
+VINCENTS,Brook Trout,Natural Occurrence,45.71131353,-62.15553564
+# 20 DAM,Brook Trout,Natural Occurrence,46.19997736,-59.96666616
+AECL HEAVY WATER RESEVOIR,Nine Spine Stickleback,Natural Occurrence,46.133373,-59.96666449
+AMAGUADEES,Rainbow Trout,Legal Introduction,45.91464654,-60.65856186
+BELLE,Brook Trout,Natural Occurrence,45.95173593,-60.10526215
+BLACKETTS,Alewife (Gaspereau),Natural Occurrence,46.06697189,-60.30878097
+BROWN'S,Brook Trout,Natural Occurrence,46.18504094,-60.16297981
+CANOE,Atlantic Salmon,Natural Occurrence,45.87134608,-60.22808827
+DUMARESQ,White Perch,Natural Occurrence,46.0739906,-60.13839266
+ENON,Brook Trout,Natural Occurrence,45.8113756,-60.54140469
+FIGURE OF EIGHT,White Perch,Natural Occurrence,45.80086272,-60.29158268
+FORESTER,Brook Trout,Natural Occurrence,46.14108331,-60.34497184
+FRONT,Brook Trout,Natural Occurrence,46.05352525,-60.17681133
+GABARUS,Brook Trout,Natural Occurrence,45.81280072,-60.20799486
+GAMMELL,Brook Trout,Natural Occurrence,46.22340486,-60.2785654
+GILLIES,Brook Trout,Natural Occurrence,46.05966765,-60.39751811
+HARDY,Brook Trout,Natural Occurrence,45.86342919,-60.19507568
+JOES,Brook Trout,Natural Occurrence,46.06680456,-60.21544303
+JOHNSON,White Perch,Natural Occurrence,45.98424098,-59.91662244
+LEVERS,Creek Chub,Natural Occurrence,45.84471368,-60.17707219
+LONG,Brook Trout,Natural Occurrence,45.83619869,-60.2004628
+LOON,Brook Trout,Natural Occurrence,46.07874782,-59.9703862
+MCADAMS,Brook Trout,Natural Occurrence,46.02687459,-60.431943
+MCDOUGALL,Brook Trout,Natural Occurrence,45.8608617,-60.32821857
+MCINNIS,White Perch,Natural Occurrence,46.02305712,-60.32061732
+MORRISON,Brown Bullhead,Natural Occurrence,45.08389304,-61.88002812
+OTTER,Brook Trout,Natural Occurrence,45.86614149,-60.21764063
+POWER,Brook Trout,Natural Occurrence,46.13350923,-60.12861574
+SCOTCH,Brook Trout,Natural Occurrence,46.18116642,-60.35795571
+STRING,White Perch,Natural Occurrence,45.88186155,-60.22744899
+BLACKIE,Brook Trout,Natural Occurrence,45.19297546,-62.93415683
+BYER'S,Brook Trout,Natural Occurrence,45.58883553,-63.4157488
+CLEAR,Brook Trout,Natural Occurrence,45.5782051,-63.33654812
+COOK,Brook Trout,Natural Occurrence,45.54351124,-63.40434711
+DAVIS,Brown Trout,Legal Introduction,45.14823578,-63.15883111
+DEBERT PONDS,White Sucker,Natural Occurrence,45.43336951,-63.46666479
+DEYARMONT,Brook Trout,Natural Occurrence,45.30722208,-63.02021865
+EARLTOWN,Brown Trout,Legal Introduction,45.5586449,-63.12973176
+ECONOMY,Brook Trout,Natural Occurrence,45.47969847,-63.85911519
+FARM,Brook Trout,Natural Occurrence,45.55351295,-63.34635551
+FOLLY,Smallmouth Bass,Illegal Introduction,45.54022247,-63.54583555
+FROG,Brook Trout,Natural Occurrence,45.51394464,-63.39084594
+GUYON,Brook Trout,Natural Occurrence,45.55874747,-63.39738358
+HART,Brook Trout,Natural Occurrence,45.57482571,-63.51808929
+HAY,Nine Spine Stickleback,Natural Occurrence,45.29795032,-63.02166933
+HINGLEY,Brook Trout,Natural Occurrence,45.46804895,-63.0805414
+IRVINE,Brook Trout,Natural Occurrence,45.57312657,-63.40381623
+JOHNSTON,Brook Trout,Natural Occurrence,45.57269219,-63.37272099
+LITTLE DYKE,Yellow Perch,Natural Occurrence,45.3854218,-63.56029826
+McELLMONS,American Eel,Natural Occurrence,45.39144668,-63.43809927
+MOOSE,Brook Trout,Natural Occurrence,45.36942199,-63.01849128
+NEWTON,White Sucker,Natural Occurrence,45.46109941,-63.89001692
+PRATTS,Brook Trout,Natural Occurrence,45.48346183,-63.04144611
+SHORTTS,Smallmouth Bass,Illegal Introduction,45.21910612,-63.31812028
+WEST,Brook Trout,Natural Occurrence,45.53248586,-63.94513703
+WHIPPY,Brook Trout,Natural Occurrence,45.58330402,-63.31612006
+BIG,Smallmouth Bass,Illegal Introduction,45.71279199,-63.7061884
+BLACK,Yellow Perch,Natural Occurrence,45.70363303,-63.92945431
+BLAIR,White Perch,Natural Occurrence,45.79920148,-64.21029267
+DEWAR,Smallmouth Bass,Illegal Introduction,45.7389736,-63.52432278
+GILBERT,Smallmouth Bass,Illegal Introduction,45.4744408,-64.33983207
+HARRISON,Smallmouth Bass,Illegal Introduction,45.70836692,-64.27793689
+ISSAC,Brook Trout,Natural Occurrence,45.55271941,-63.69737776
+KILLARNEY,White Perch,Natural Occurrence,45.85289884,-63.84391275
+LAPLANCHE,White Perch,Natural Occurrence,45.88164467,-64.14955338
+LAYTONS,White Perch,Natural Occurrence,45.79458758,-64.2541981
+LEAK,Brook Trout,Natural Occurrence,45.43709403,-64.34677253
+MACALONEYS,Brook Trout,Natural Occurrence,45.43258019,-64.33255106
+MATTATAL,Smallmouth Bass,Illegal Introduction,45.69076886,-63.47406639
+MOSLEYS,Brook Trout,Natural Occurrence,45.9229599,-64.0848397
+NEWVILLE,Smallmouth Bass,Illegal Introduction,45.52090113,-64.33861695
+PARK,Banded Killifish,Natural Occurrence,45.73337921,-63.86667259
+PINEO,White Perch,Natural Occurrence,45.75875213,-63.68213059
+POISON,Brook Trout,Natural Occurrence,45.54983365,-63.93716464
+RAMSHEAD,Brook Trout,Natural Occurrence,45.40274093,-64.48919477
+SMITH,White Perch,Natural Occurrence,45.88034697,-64.18841908
+SUTHERLAND,Brook Trout,Natural Occurrence,45.51737645,-63.6772106
+VICKERY,Brook Trout,Natural Occurrence,45.71973266,-63.89715979
+WELTON,White Perch,Natural Occurrence,45.49061542,-64.4805673
+WIGMORE,Yellow Perch,Natural Occurrence,45.73409209,-63.63492935
+AMEROS,Chain Pickerel,Illegal Introduction,44.36851282,-65.90888177
+AMIRAULT,Yellow Perch,Natural Occurrence,44.46597907,-65.83502537
+ANDERWS,Yellow Perch,Natural Occurrence,44.48924706,-65.85862713
+ARTHURS,Chain Pickerel,Illegal Introduction,44.34592889,-65.93300545
+BARNES,Yellow Perch,Natural Occurrence,44.53131646,-65.67170273
+BARTLETTS,White Perch,Natural Occurrence,44.3363799,-66.06680745
+BEAVER,Chain Pickerel,Illegal Introduction,44.21525518,-66.03454649
+BELLIVEAU,White Perch,Natural Occurrence,44.33021212,-66.04161456
+BIG TOM WALLACE,Yellow Perch,Natural Occurrence,44.48021685,-65.70842428
+BIG UNIACKE,Brook Trout,Natural Occurrence,44.42752664,-65.70948079
+BILL,White Perch,Natural Occurrence,44.3351457,-65.90759412
+BRIGHTS,Yellow Perch,Natural Occurrence,44.3404876,-65.9134657
+BULL,Brook Trout,Natural Occurrence,44.32294396,-66.01356144
+CLARE,White Perch,Natural Occurrence,44.19562661,-66.1049277
+CLEARWATER,Smallmouth Bass,Illegal Introduction,44.19650749,-66.04213016
+COLIBRI,Yellow Perch,Natural Occurrence,44.33589166,-65.78010163
+CRANBERRY,Smallmouth Bass,Legal Introduction,44.15280435,-66.10046616
+DOCTORS,Brook Trout,Natural Occurrence,44.0552363,-66.1128308
+DOUCETTE,Atlantic Salmon,Natural Occurrence,44.06180328,-66.12619727
+DOYLES,Yellow Perch,Natural Occurrence,44.34163704,-65.7955148
+EEL,Chain Pickerel,Illegal Introduction,44.2352996,-66.04925133
+ELLISON,Yellow Perch,Natural Occurrence,44.54240173,-65.73954248
+ENGLISH,White Perch,Natural Occurrence,44.15997542,-66.05488264
+EVERITT,Yellow Perch,Natural Occurrence,44.44894004,-65.86124604
+FARISH,White Perch,Natural Occurrence,44.09049273,-66.02030966
+GASPEREAU,White Perch,Natural Occurrence,44.10934299,-66.12604297
+GERMAIN,Chain Pickerel,Illegal Introduction,44.22974527,-66.04147685
+HAINES,Brook Trout,Natural Occurrence,44.51419702,-65.80733136
+HECTANOOGA,Brook Trout,Natural Occurrence,44.09678203,-66.02758846
+HERON,Chain Pickerel,Illegal Introduction,44.16740739,-66.09315187
+HOURGLASS,White Perch,Natural Occurrence,44.32696506,-65.92825941
+HUNTER,Brook Trout,Natural Occurrence,44.1408082,-65.96579214
+JIB,Chain Pickerel,Illegal Introduction,44.31460209,-65.99872694
+JOLI,Brook Trout,Natural Occurrence,44.47055132,-65.55764892
+JOURNEAYS,Yellow Perch,Natural Occurrence,44.3964518,-66.01181031
+KNOCKWOOOD,Brook Trout,Natural Occurrence,44.41157965,-65.73641288
+LAC A PECEE,White Perch,Natural Occurrence,44.12020093,-66.09430987
+LAC A PIERRE,Brook Trout,Natural Occurrence,44.23327576,-66.07100931
+LAC INNOCENT,Chain Pickerel,Illegal Introduction,44.27385157,-66.0753415
+LANGFORD,Brook Trout,Natural Occurrence,44.31082174,-65.76330702
+LE MARCHANT,Yellow Perch,Natural Occurrence,44.49608501,-65.55110558
+LITTLE TOM WALLACE,Brook Trout,Natural Occurrence,44.47029802,-65.68241824
+LITTLE TUSKET,Brook Trout,Natural Occurrence,44.3294278,-65.76824477
+LONG TUSKET,Brook Trout,Natural Occurrence,44.349232,-65.76088434
+LOWER CORNING,Atlantic Salmon,Natural Occurrence,44.0527498,-66.0817044
+MALLETTE,Brook Trout,Natural Occurrence,44.5009265,-65.77571215
+MARDI GRAS,Yellow Perch,Natural Occurrence,44.13461082,-66.11067618
+MIDDLE CARRYING ROAD,Brook Trout,Natural Occurrence,44.18185464,-65.79480347
+NAPIER,Brook Trout,Natural Occurrence,44.19414414,-65.71835277
+NORWOOD CLEARWATER,Brook Trout,Natural Occurrence,44.05711227,-66.04663795
+NOWLANS,Chain Pickerel,Illegal Introduction,44.31204482,-65.9343251
+OAKLEAF,Smallmouth Bass,Illegal Introduction,44.24714006,-66.03398249
+OLIVER,White Sucker,Natural Occurrence,44.28481352,-65.89014433
+PLACIDES,White Perch,Natural Occurrence,44.29033835,-65.93470965
+PLYMPTON,Brook Trout,Natural Occurrence,44.48342009,-65.88981782
+PORCUPINE,Chain Pickerel,Illegal Introduction,44.27218197,-65.94057129
+PORTERS,Brook Trout,Natural Occurrence,44.49395753,-65.80667386
+PROVOST,Yellow Perch,Natural Occurrence,44.35056356,-65.85316447
+RANGE CORNER,Yellow Perch,Natural Occurrence,44.50191668,-65.81613811
+SALMON RIVER,Smallmouth Bass,Illegal Introduction,44.17736403,-66.05102744
+SECTACLE,Smallmouth Bass,Legal Introduction,44.27572143,-66.0627206
+SNARE,Brook Trout,Natural Occurrence,44.10337551,-65.97196457
+SOUTH CARRYING ROAD,Brook Trout,Natural Occurrence,44.16946852,-65.79325493
+SPECTACLE,Smallmouth Bass,Illegal Introduction,44.27572143,-66.0627206
+SULLIVANS,White Perch,Natural Occurrence,44.31395362,-65.87703039
+SWALLOW,Smallmouth Bass,Illegal Introduction,44.18687315,-66.02524384
+TEDFORD,White Perch,Natural Occurrence,44.10203848,-66.01266458
+THIBAULT,Chain Pickerel,Illegal Introduction,44.33162285,-66.09296124
+TICKEN,Brook Trout,Natural Occurrence,44.15826347,-65.98346218
+UNNAMED,White Perch,Natural Occurrence,44.30002042,-65.88333177
+WENTWORTH,Smallmouth Bass,Illegal Introduction,44.19285547,-65.93403033
+ARCHIBALD,Brook Trout,Natural Occurrence,45.20816441,-61.95143679
+ASH,Brook Trout,Natural Occurrence,45.12141169,-62.2117984
+AULD,White Sucker,Natural Occurrence,45.63334454,-61.41666815
+BEAR,Brook Trout,Natural Occurrence,45.05733905,-61.99635043
+BEAVER DAM #2,Yellow Perch,Natural Occurrence,45.34203438,-61.78094181
+BIG GASPEREAUX,White Perch,Natural Occurrence,45.10303837,-62.06714932
+BIG INDIAN HARBOUR,Brook Trout,Natural Occurrence,45.11712883,-61.86375278
+BLOWDOWN,Brook Trout,Natural Occurrence,45.32238895,-61.04176009
+BOTTLE BROOK,Brook Trout,Natural Occurrence,45.24684785,-62.57622786
+BULL MOOSE,Brook Trout,Natural Occurrence,45.04895742,-62.23985514
+CARIBOU,Brook Trout,Natural Occurrence,45.25944613,-62.57519098
+CHARLIE,White Sucker,Natural Occurrence,45.38978573,-61.86378239
+COCHRANE,Brook Trout,Natural Occurrence,45.34545181,-61.89567558
+COOEYCOFF,Brook Trout,Natural Occurrence,45.30355038,-61.21022018
+COOPER,Brook Trout,Natural Occurrence,43.87097451,-66.07513858
+COUNTRY HARBOUR,White Perch,Natural Occurrence,45.30034997,-61.91396177
+CROOKED,Brown Trout,Legal Introduction,45.37005166,-61.89837673
+CUDDIHY,Brook Trout,Natural Occurrence,45.44431627,-61.72567384
+CUMMINGER,White Perch,Natural Occurrence,45.26802565,-62.04383787
+CUPBOARD,Yellow Perch,Natural Occurrence,45.27662488,-61.50344981
+DAYSPRING,Brook Trout,Natural Occurrence,45.21527187,-62.58151851
+DOBSON,Brook Trout,Natural Occurrence,45.3349299,-61.20222504
+DONAHUE,Brook Trout,Natural Occurrence,45.29475763,-61.49278281
+DUGGANS,Brook Trout,Natural Occurrence,45.33044535,-61.78307918
+EIGHT ISLAND,White Perch,Natural Occurrence,45.35225676,-61.95891555
+FANCYS,White Perch,Natural Occurrence,44.97354597,-62.05069734
+FIRST ROCKY,Brook Trout,Natural Occurrence,45.23922811,-62.53794676
+FISH,Brook Trout,Natural Occurrence,45.36778855,-61.96435155
+FISHERMANS HARBOUR,Yellow Perch,Natural Occurrence,45.11826529,-61.73226662
+FRASER,Brook Trout,Natural Occurrence,44.91254594,-62.63565006
+G,Yellow Perch,Natural Occurrence,45.35735231,-61.97492196
+GARY #2,Brook Trout,Natural Occurrence,45.33220918,-61.68245221
+GARY #3,Brook Trout,Natural Occurrence,45.33220918,-61.68245221
+GEGOGAN,Brook Trout,Natural Occurrence,45.06830836,-61.9547721
+GIANT,Brook Trout,Natural Occurrence,45.39508962,-61.8813198
+GLENELG,White Sucker,Natural Occurrence,45.26962626,-62.06318771
+GOOSE HARBOUR,Brook Trout,Natural Occurrence,45.55051184,-61.41501186
+GOSHEN,Yellow Perch,Natural Occurrence,45.37708877,-61.97754125
+GRASSY,White Sucker,Natural Occurrence,45.09656046,-62.00360683
+HANRAHAN,Brook Trout,Natural Occurrence,45.36022008,-61.92460187
+HAZEL,Brook Trout,Natural Occurrence,45.32213089,-61.02157043
+HOOPER,Brook Trout,Natural Occurrence,45.02110776,-62.05450634
+HORSESHOE,Brook Trout,Natural Occurrence,45.29307608,-61.51559166
+HUNTLEY,Brook Trout,Natural Occurrence,45.38329526,-62.04999486
+ICE,Brook Trout,Natural Occurrence,45.33250011,-61.23108021
+IRVING,Brook Trout,Natural Occurrence,45.42634194,-61.52603571
+KIRBY,Brook Trout,Natural Occurrence,45.01424054,-62.06229743
+LAWHIE,Brook Trout,Natural Occurrence,45.34994838,-61.93311977
+LOCHIEL,Brook Trout,Natural Occurrence,45.35196764,-62.06052795
+LONG JOHN,Creek Chub,Natural Occurrence,45.26089704,-62.55436616
+LONGS,Brook Trout,Natural Occurrence,45.35900514,-61.68781851
+LOUSE,Brook Trout,Natural Occurrence,44.97199828,-62.10426507
+LOWER GASPEREAUX,Brook Trout,Natural Occurrence,45.05922348,-62.02686333
+LOWER ROCKY,Brook Trout,Natural Occurrence,45.21287501,-62.54329247
+MACGREGORS,Brook Trout,Natural Occurrence,45.40475683,-61.9320757
+MACINNIS,Brook Trout,Natural Occurrence,45.40592335,-61.88460726
+MACKINNONS,Brown Trout,Legal Introduction,45.39715465,-61.94703966
+MACPHERSON,Brook Trout,Natural Occurrence,45.43321271,-61.42053679
+MANASETTE,Brook Trout,Natural Occurrence,45.43417026,-61.34203644
+MATTIE,Brook Trout,Natural Occurrence,45.60497475,-61.47498069
+MCCARTHY,White Perch,Natural Occurrence,45.26404321,-62.13124433
+MCLEOD,Brook Trout,Natural Occurrence,45.26102385,-62.14866306
+MCMULLIN,Brook Trout,Natural Occurrence,45.26746725,-61.95937053
+MEAGHERS,Brook Trout,Natural Occurrence,45.46143318,-61.51110244
+MIDDLE,Brook Trout,Natural Occurrence,45.33832036,-61.84805413
+MOSHERS,Brook Trout,Natural Occurrence,45.32533481,-61.81063611
+MUD,White Sucker,Natural Occurrence,45.40822396,-61.80934482
+MULGAMAN,Brook Trout,Natural Occurrence,45.33920242,-61.92945429
+NARROW,Brown Trout,Legal Introduction,45.39738041,-61.84915435
+OCEAN,Brook Trout,Natural Occurrence,45.23640694,-61.59711619
+PALMER,Brook Trout,Natural Occurrence,45.298576,-61.9262653
+PEMMON,Brook Trout,Natural Occurrence,45.25919554,-62.12119834
+POLSEN,Brook Trout,Natural Occurrence,45.34668587,-61.95017145
+PRINGLE,Brook Trout,Natural Occurrence,45.37682535,-61.94852822
+PYE,Brook Trout,Natural Occurrence,44.97575737,-62.09012892
+RUSH,Brook Trout,Natural Occurrence,45.20221087,-62.47092839
+SECOND ROCKY,Brook Trout,Natural Occurrence,45.22973026,-62.54890274
+SHERBROOKE,Yellow Perch,Natural Occurrence,45.13908188,-61.96682164
+SIMPSON,Brook Trout,Natural Occurrence,45.44954885,-61.47677157
+SINCLAIR,American Eel,Natural Occurrence,45.08144175,-62.02496149
+SMELT,Brook Trout,Natural Occurrence,45.30610628,-61.1839643
+SOUTHWEST,Brook Trout,Natural Occurrence,45.32734155,-61.28831998
+SQUARE,Yellow Perch,Natural Occurrence,45.26337785,-61.96501545
+SULLIVAN,American Eel,Natural Occurrence,45.40330661,-61.88395597
+SUSIE,Brook Trout,Natural Occurrence,45.35356318,-61.67645428
+THREE MILE,Brook Trout,Natural Occurrence,45.33522176,-61.07651695
+TOM,Brook Trout,Natural Occurrence,45.32831912,-61.51231042
+TWIN OAKS,Yellow Perch,Natural Occurrence,46.80562541,-60.50789532
+UPPER INDIAN HARBOUR(3RD),Brook Trout,Natural Occurrence,45.15033073,-61.91787073
+UPPER INDIAN HARBOUR(4TH),Brook Trout,Natural Occurrence,45.16592484,-61.94905636
+UPPER INDIAN HARBOUR(6TH),Brook Trout,Natural Occurrence,45.17196513,-61.95988965
+WALLACE,Yellow Perch,Natural Occurrence,45.31467534,-62.05731701
+WALSH,Brook Trout,Natural Occurrence,45.44882278,-61.37828366
+WEST RIVER,Blacknose Shiner,Natural Occurrence,45.11145101,-62.24303045
+WHIDDEN,Nine Spine Stickleback,Natural Occurrence,45.23311939,-62.11321764
+YANKEE,Brook Trout,Natural Occurrence,45.1361293,-62.14303267
+ABRAHAMS,Brook Trout,Natural Occurrence,44.76621052,-62.98468443
+ALBRO,Smallmouth Bass,Illegal Introduction,44.68913308,-63.57721869
+ANDERSON,Brook Trout,Natural Occurrence,44.72662816,-63.6201225
+ANTIDAM,Brook Trout,Natural Occurrence,45.11259523,-62.50003036
+ARNOLD,Brook Trout,Natural Occurrence,44.84223059,-62.89328278
+BAPTIZING,Brook Trout,Natural Occurrence,44.72446822,-63.7681317
+BARE ROCK,American Eel,Natural Occurrence,44.80111666,-62.78427686
+BARRETT,Smallmouth Bass,Illegal Introduction,44.81464614,-63.6872857
+BAYER,Brook Trout,Natural Occurrence,44.81129016,-63.16047079
+BEAVERBANK,Smallmouth Bass,Illegal Introduction,44.85697811,-63.66846271
+BENNERY,Brook Trout,Natural Occurrence,44.89282395,-63.56524586
+BIG BROOK,Brook Trout,Natural Occurrence,44.95824664,-62.52908821
+BIG FIVE BRIDGE,Banded Killifish,Natural Occurrence,44.59022777,-63.82184474
+BISETT,Smallmouth Bass,Illegal Introduction,44.65559555,-63.46996924
+BLACK DUCK RUN,Mummichog,Natural Occurrence,44.5167052,-63.86666134
+BOTTLE,Brook Trout,Natural Occurrence,44.74912426,-63.76967096
+BRINE,Brook Trout,Natural Occurrence,44.61776663,-63.91758502
+BURKE,Brook Trout,Natural Occurrence,45.09542573,-62.86456012
+CATCHA,Brook Trout,Natural Occurrence,44.73597752,-63.19488125
+CHARLES,Chain Pickerel,Illegal Introduction,44.72257076,-63.55113519
+CHARLOTTE,Brook Trout,Natural Occurrence,44.82904463,-62.97561016
+CHEZZETCOOK,Brown Bullhead,Natural Occurrence,44.77480466,-63.22876918
+CHOCOLATE,White Sucker,Natural Occurrence,44.6385661,-63.62349599
+CHURCH,Brook Trout,Natural Occurrence,44.83721024,-63.26135478
+CONROD,Lake Whitefish,Natural Occurrence,44.77365654,-63.2604487
+COOKS,Brook Trout,Natural Occurrence,45.00545241,-63.26403471
+COON,Brook Trout,Natural Occurrence,44.92686715,-62.56111282
+COPPER,Brook Trout,Natural Occurrence,44.80434279,-62.69831725
+COXS,Smallmouth Bass,Illegal Introduction,45.24277871,-62.75418486
+CRUICKSHANK,Brook Trout,Natural Occurrence,45.1920165,-62.57308317
+DOG,Brook Trout,Natural Occurrence,45.04840317,-62.35458153
+DOLLAR,Brook Trout,Natural Occurrence,44.91527838,-63.32391434
+DOREY,Yellow Perch,Natural Occurrence,44.64769837,-64.05825136
+DRY,Brook Trout,Natural Occurrence,45.08595974,-63.03172915
+DUCK,Smallmouth Bass,Illegal Introduction,44.80549085,-63.6827891
+EAGLE,White Perch,Natural Occurrence,44.74393059,-63.44203558
+EAST,Brook Trout,Natural Occurrence,44.7663983,-63.49519235
+EAST TAYLOR BAY,Brook Trout,Natural Occurrence,44.89559148,-62.6547925
+ECHO,Brook Trout,Natural Occurrence,44.71876027,-63.38208374
+EGG,Brook Trout,Natural Occurrence,44.83059958,-63.51213706
+EGMONT,Chain Pickerel,Illegal Introduction,44.99852673,-63.29824664
+FEELY,American Eel,Natural Occurrence,44.80000305,-63.69710057
+FENERTY,Smallmouth Bass,Illegal Introduction,44.82985679,-63.71706862
+FERRY,Brown Trout,Legal Introduction,44.95781919,-62.77175997
+FIRST,White Perch,Natural Occurrence,44.77121333,-63.66394671
+FIVE ISLAND,Brook Trout,Natural Occurrence,44.66379922,-63.80627051
+FLETCHER,Smallmouth Bass,Illegal Introduction,44.84217157,-63.61189616
+FOURTH,Brook Trout,Natural Occurrence,44.88609225,-62.70203101
+FRASER'S,Brook Trout,Natural Occurrence,44.67651385,-63.763902
+FRECHMANS,Brook Trout,Natural Occurrence,44.76257088,-62.90472595
+GAETZ,White Perch,Natural Occurrence,44.66678721,-63.26531845
+GAMMONS,Brook Trout,Natural Occurrence,44.9105854,-62.35497309
+GIBRALTAR,White Perch,Natural Occurrence,44.86153617,-63.2524274
+GOOSE,Brook Trout,Natural Occurrence,44.74593005,-63.07748585
+GOVERNOR,Brook Trout,Natural Occurrence,44.64288215,-63.70194993
+GREEN,Brook Trout,Natural Occurrence,44.90236817,-62.41724432
+HALF MILE,Brook Trout,Natural Occurrence,44.65351346,-63.74330712
+HALFWAY,Yellow Perch,Natural Occurrence,44.74532779,-63.78517063
+HALFWAY BROOK,Brook Trout,Natural Occurrence,44.93331763,-62.44999578
+HARTSHORNE,Brook Trout,Natural Occurrence,45.10335033,-62.8671471
+HATCHET,Brook Trout,Natural Occurrence,44.84637001,-62.8202482
+HIGGINS,Brook Trout,Natural Occurrence,44.96000777,-63.15847576
+HUBLEY BIG,Brook Trout,Natural Occurrence,44.64662232,-63.82893336
+HUBLEY MILL,Brook Trout,Natural Occurrence,44.69509784,-63.85972602
+INDIAN,Brook Trout,Natural Occurrence,45.20831976,-62.62747601
+JONES,White Perch,Natural Occurrence,44.90236011,-62.88837103
+KEARNEY,Smallmouth Bass,Illegal Introduction,44.69628891,-63.69831622
+KELLY,Brook Trout,Natural Occurrence,45.05095256,-62.32836721
+KIELEY,Brook Trout,Natural Occurrence,44.67761728,-63.97384347
+KINDERVATOR,Brook Trout,Natural Occurrence,45.04689377,-62.29712621
+KINSAC,Chain Pickerel,Illegal Introduction,44.82484968,-63.65126758
+LAND OF LAZINESS,Brook Trout,Natural Occurrence,44.70260714,-63.83035042
+LAWRENCETOWN,White Perch,Natural Occurrence,44.66671798,-63.35683975
+LAY,Brook Trout,Natural Occurrence,44.916022,-63.19462731
+LEADER,Brook Trout,Natural Occurrence,44.73631291,-63.04995203
+LEWIS,White Perch,Natural Occurrence,44.75071637,-63.38274902
+LINDSAY,Brook Trout,Natural Occurrence,45.03186285,-63.00793433
+LITTLE BEAVER,Brook Trout,Natural Occurrence,45.14069231,-62.75050295
+LIZARD,Brook Trout,Natural Occurrence,44.66534114,-63.79175979
+LONG BRIDGE,White Perch,Unknown,44.78807859,-63.20752088
+LOWER BEAVER,Yellow Perch,Natural Occurrence,45.01775771,-62.76464301
+LOWER EGMONT,Smallmouth Bass,Illegal Introduction,44.98800745,-63.29323215
+MAJOR,Brook Trout,Natural Occurrence,44.74622405,-63.49728125
+MARTIN,Brook Trout,Natural Occurrence,44.7429453,-63.39132508
+MAYNARD,Brook Trout,Natural Occurrence,44.67053048,-63.55245845
+MCCABE,Smallmouth Bass,Illegal Introduction,44.77705137,-63.75316886
+MCGRATH,Brook Trout,Natural Occurrence,44.54809928,-63.71420479
+MEISENERS,American Eel,Natural Occurrence,44.65004071,-63.96667264
+MEISNER,White Perch,Natural Occurrence,44.68333268,-63.18333534
+MICMAC,Brook Trout,Natural Occurrence,44.69231291,-63.55317032
+MILLER,Smallmouth Bass,Illegal Introduction,44.81616211,-63.59353509
+MOODY,Brook Trout,Natural Occurrence,44.53841327,-63.64762583
+MOORE,Brook Trout,Natural Occurrence,45.10489405,-62.87923178
+MOOSHORN,Brook Trout,Natural Occurrence,44.53511098,-63.71811146
+MUDDY POND,Smallmouth Bass,Illegal Introduction,44.78834651,-63.61036645
+MURPHYS,Brook Trout,Natural Occurrence,44.89025203,-62.46138584
+MUSHABOOM,Yellow Perch,Natural Occurrence,44.88630621,-62.59591503
+MUSKRAT,Brook Trout,Natural Occurrence,44.75899482,-62.94170194
+NEWCOMBE,Brook Trout,Natural Occurrence,44.80898402,-62.80392463
+NEWCOMBES,Brook Trout,Natural Occurrence,44.78061447,-62.98709481
+NOWLIN,Brook Trout,Natural Occurrence,44.97789741,-62.36693991
+OATHILL,Smallmouth Bass,Illegal Introduction,44.67387141,-63.55038323
+OYSTER,White Perch,Natural Occurrence,44.78709635,-63.01049217
+PACES,Brook Trout,Natural Occurrence,44.81309439,-63.21318783
+PAPERMILL,Smallmouth Bass,Illegal Introduction,44.71525545,-63.68817875
+PAUL MORRIS,White Perch,Natural Occurrence,44.94634643,-62.35904737
+PEARL,Brook Trout,Natural Occurrence,44.85089511,-62.92085492
+PENHORN,Rainbow Trout,Legal Introduction,44.67535825,-63.5406571
+PETPESWICK,Brook Trout,Natural Occurrence,44.76551224,-63.1906715
+PHILLIP,White Perch,Natural Occurrence,44.93955449,-62.82856373
+POCKWOCK,Yellow Perch,Natural Occurrence,44.80058308,-63.83845595
+PORTUGUESE COVE,Brook Trout,Natural Occurrence,44.52545747,-63.54240221
+POT,Brown Bullhead,Natural Occurrence,44.90453998,-63.16911547
+POWDER MILL,Chain Pickerel,Illegal Introduction,44.77483799,-63.61132368
+POWERS POND,American Eel,Natural Occurrence,44.57662231,-63.55491891
+PUDDLE,Yellow Perch,Natural Occurrence,44.66984979,-63.99764523
+PUG HOLE,Brook Trout,Natural Occurrence,44.8550373,-62.92260844
+QUODDY,White Sucker,Natural Occurrence,45.013974,-62.33162968
+RIVER,White Perch,Natural Occurrence,44.92319007,-62.74288059
+ROBISON,Brook Trout,Natural Occurrence,44.69574727,-63.42373403
+ROCKY,Smallmouth Bass,Illegal Introduction,44.91168473,-63.47608018
+RUSSELL,Chain Pickerel,Illegal Introduction,44.66328354,-63.52379317
+SALMON RIVER BIG,White Perch,Natural Occurrence,44.98737975,-62.42366482
+SANDY,Brook Trout,Natural Occurrence,44.73453262,-63.70098653
+SCHMIDT,Brook Trout,Natural Occurrence,44.72040119,-63.75704221
+SCRAGGY,Brook Trout,Natural Occurrence,44.95177456,-62.88164508
+SELOAM,Brook Trout,Natural Occurrence,45.16564196,-62.50615789
+SEVENTEEN MILE,Brook Trout,Natural Occurrence,45.18551804,-62.54528061
+SHAW BIG,Brook Trout,Natural Occurrence,44.9683445,-63.11212462
+SHAW LITTLE,Brook Trout,Natural Occurrence,44.95458216,-63.10063702
+SHEEHAN,Brook Trout,Natural Occurrence,44.50142113,-63.62994484
+SHELDRAKE,Golden Shiner,Natural Occurrence,44.67646227,-63.79777816
+SNOW,Brook Trout,Natural Occurrence,44.68299123,-63.33407491
+SOLDIER,Brook Trout,Natural Occurrence,44.8153812,-63.57011686
+SPIDER,Brook Trout,Natural Occurrence,44.75504323,-63.53769779
+SPRUCE HILL,Brook Trout,Natural Occurrence,44.57933819,-63.65411348
+STILLWATER,Brook Trout,Natural Occurrence,44.67057042,-63.73677566
+TANGIER,Yellow Perch,Natural Occurrence,44.83376755,-62.72926082
+TANGIER GRAND,Brook Trout,Natural Occurrence,44.88751245,-62.82195626
+TAYLOR,American Eel,Natural Occurrence,44.74378858,-63.82473757
+TAYLOR BAY GRAND,Brook Trout,Natural Occurrence,44.91491116,-62.70675975
+TEN MILE,Brook Trout,Natural Occurrence,45.14183698,-62.70226632
+THIRD,Brook Trout,Natural Occurrence,44.85345062,-62.68203889
+THOMAS,Smallmouth Bass,Illegal Introduction,44.80149479,-63.6094303
+TOMAHAWK,Yellow Perch,Natural Occurrence,44.78635604,-63.80132562
+TUCKER,Smallmouth Bass,Illegal Introduction,44.84040374,-63.68540293
+VINEGAR,Brook Trout,Natural Occurrence,44.67922134,-64.05669267
+WEBBER,Smallmouth Bass,Illegal Introduction,44.77407511,-63.7262232
+WEEK'S,Brook Trout,Natural Occurrence,44.8016352,-62.89830158
+WELSH,Golden Shiner,Natural Occurrence,44.5311733,-63.82147943
+WHITES,Brook Trout,Natural Occurrence,44.53415352,-63.75490204
+WILLIAM,Chain Pickerel,Illegal Introduction,44.76731843,-63.58607177
+WILLIAMS,White Perch,Natural Occurrence,44.61962763,-63.59599135
+WITHEROD,Brook Trout,Natural Occurrence,44.62752631,-63.63380335
+WRIGHTS,Brook Trout,Natural Occurrence,44.7449225,-63.8779216
+ARMSTRONG,Brook Trout,Natural Occurrence,44.82605729,-64.19292715
+COCHRAN,Yellow Perch,Natural Occurrence,44.9220237,-63.92007134
+COCKSCOMB,Smallmouth Bass,Illegal Introduction,44.92680989,-63.84836221
+FALLS,Smallmouth Bass,Illegal Introduction,44.8521524,-64.24458083
+FIVE MILE,Brook Trout,Natural Occurrence,44.87294889,-63.96532054
+LITTLE ISLAND,White Sucker,Natural Occurrence,44.82034198,-64.31184341
+MAITLAND,Brown Bullhead,Natural Occurrence,45.29414292,-63.50332234
+MCGRATHS,Brook Trout,Natural Occurrence,45.00133193,-63.70486679
+MEADOW,Brook Trout,Natural Occurrence,44.96861345,-64.08847097
+MOCKINGIGH,Smallmouth Bass,Illegal Introduction,44.83069029,-64.2397037
+NINE MILE,Chain Pickerel,Illegal Introduction,44.98464124,-63.50240782
+NOEL,Chain Pickerel,Illegal Introduction,45.26893246,-63.73663685
+NORTH CANOE,Brown Bullhead,Natural Occurrence,44.81713651,-64.32438047
+NS SAND AND GRAVEL PIT,Chain Pickerel,Illegal Introduction,45.06668599,-63.50000116
+PANUKE,Smallmouth Bass,Illegal Introduction,44.80709297,-64.10955632
+PENTZ,Smallmouth Bass,Illegal Introduction,44.88214777,-63.81285984
+PIGOTT,Smallmouth Bass,Illegal Introduction,44.92938038,-63.87749572
+SAVAGE,Brook Trout,Natural Occurrence,44.91548176,-63.7701021
+SHEY,American Eel,Natural Occurrence,45.01398594,-64.18755838
+SHUBENACADIE,Chain Pickerel,Illegal Introduction,45.10735179,-63.39547221
+UNIACKE,Smallmouth Bass,Illegal Introduction,44.89693543,-63.84669427
+VALLEY,Brook Trout,Natural Occurrence,45.04858477,-63.76203202
+ZWICKER,Smallmouth Bass,Illegal Introduction,44.80663859,-64.24116104
+AINSLIE,Smallmouth Bass,Illegal Introduction,46.12655249,-61.17355737
+CORMIER,Brook Trout,Natural Occurrence,46.49217107,-61.06629112
+ETANG A JOHNNY A EUSEBE,Three Spine Stickleback,Natural Occurrence,46.66602437,-60.96648489
+GLEN PONDS,Brook Trout,Natural Occurrence,45.86244584,-61.03079037
+GRAND LAC,Brook Trout,Natural Occurrence,46.55864342,-61.02208895
+HECTOR,Brook Trout,Natural Occurrence,45.64934552,-61.36409926
+HORTON,Brook Trout,Natural Occurrence,45.67611765,-61.39222178
+MACINTYRE,Brook Trout,Natural Occurrence,45.65378278,-61.2801459
+O'LAW  SECOND,Brook Trout,Natural Occurrence,46.25694787,-60.95465071
+PEMBROOKE,Brook Trout,Natural Occurrence,46.49781637,-60.99690265
+PETIT LAC,White Perch,Natural Occurrence,46.54864696,-61.03213121
+AYLESFORD,Chain Pickerel,Illegal Introduction,44.94658463,-64.66185121
+BIRCH,Yellow Perch,Natural Occurrence,44.88173615,-64.85127783
+BLACK DUCK,Smallmouth Bass,Illegal Introduction,44.71442064,-64.71648686
+BLACK RIVER,White Perch,Natural Occurrence,44.93337346,-64.39823509
+CHAIN,Brook Trout,Natural Occurrence,44.79710563,-64.75503373
+CLOUD,Yellow Perch,Natural Occurrence,44.8614971,-64.88879093
+COLWELL,Yellow Perch,Natural Occurrence,44.85178336,-64.58658186
+COLWELL ROUND,Yellow Perch,Natural Occurrence,44.84585588,-64.598491
+EAST TWIN,Brook Trout,Natural Occurrence,44.77985998,-64.79882525
+ELL,Brook Trout,Natural Occurrence,44.74063178,-64.79172204
+FOX,Brook Trout,Natural Occurrence,44.86307289,-64.81947806
+HARDWOOD,Yellow Perch,Natural Occurrence,44.84580892,-64.64614453
+HUDSON,Yellow Perch,Natural Occurrence,44.88997652,-64.53207633
+LAKE PAUL,Chain Pickerel,Illegal Introduction,44.82833296,-64.67848666
+LITTLE RIVER,White Perch,Natural Occurrence,44.95771191,-64.46734109
+MACK,Brook Trout,Natural Occurrence,44.70623112,-64.76938963
+MIDCONNER,Smallmouth Bass,Illegal Introduction,44.8422808,-64.73249061
+MISTAKE,Brook Trout,Natural Occurrence,44.81056479,-64.80975758
+MURPHY,Smallmouth Bass,Legal Introduction,44.90378862,-64.52243654
+NIMCHIN PAGE,Brook Trout,Natural Occurrence,44.80419687,-64.70288646
+NORTH TWIN,Smallmouth Bass,Illegal Introduction,44.86327001,-64.71963966
+OAK,Brook Trout,Natural Occurrence,44.86078842,-64.75844881
+PAUL,Smallmouth Bass,Unknown,44.86026016,-64.69213469
+RANDALL,Yellow Perch,Natural Occurrence,44.89645388,-64.82616672
+SHELL CAMP,Yellow Perch,Natural Occurrence,44.83910144,-64.80408431
+SILVER,Smallmouth Bass,Illegal Introduction,45.11362037,-64.59516963
+SOUTH RIVER,Yellow Perch,Natural Occurrence,44.90509592,-64.72784071
+SOUTH TWIN,Smallmouth Bass,Illegal Introduction,44.84972539,-64.72238751
+SUNKEN,Rainbow Trout,Legal Introduction,44.99465528,-64.45048431
+TANNER,Brook Trout,Natural Occurrence,44.75025878,-64.78056134
+TORMENT,Brown Bullhead,Natural Occurrence,44.73053303,-64.74038988
+TUPPER,Banded Killifish,Natural Occurrence,45.01773295,-64.59000412
+TURBITT,Yellow Perch,Natural Occurrence,44.83757815,-64.52580312
+UPPER PALMER,Yellow Perch,Natural Occurrence,44.87871353,-64.78097466
+UPPER SIXTY,Brook Trout,Natural Occurrence,44.7585996,-64.81116657
+WEST TWIN,Brook Trout,Natural Occurrence,44.77741765,-64.80527111
+ANDREW,Smallmouth Bass,Illegal Introduction,44.35046778,-64.64775987
+BECKS,Smallmouth Bass,Illegal Introduction,44.34637792,-64.41570802
+BEZANSON,Brook Trout,Natural Occurrence,44.63237547,-64.27185899
+BIG MUSHAMUSH,Smallmouth Bass,Illegal Introduction,44.4890846,-64.54661952
+BLYSTEINER,Smallmouth Bass,Illegal Introduction,44.42299216,-64.48654855
+BUTLER,Smallmouth Bass,Illegal Introduction,44.71216553,-64.67435442
+CAMP,Smallmouth Bass,Illegal Introduction,44.79320344,-64.44221694
+CANORAN,Brook Trout,Natural Occurrence,44.59624276,-64.56444085
+CARD,Brown Trout,Legal Introduction,44.73921771,-64.281361
+CHINA,Yellow Perch,Natural Occurrence,44.24720459,-64.5579137
+CLEARLAND,Brook Trout,Natural Occurrence,44.46105776,-64.3950581
+COOLEN,Brook Trout,Natural Occurrence,44.67835525,-64.14647546
+CORNWALL,American Eel,Natural Occurrence,44.52707609,-64.57295774
+COVEY,Brook Trout,Natural Occurrence,44.41140511,-64.44946707
+CROUSE,Smallmouth Bass,Illegal Introduction,44.36968382,-64.40204917
+DAUPHINEES MILL,Brook Trout,Natural Occurrence,44.66194877,-64.11229631
+DOREYS,Yellow Perch,Natural Occurrence,44.60175311,-64.54985838
+FANCY,Smallmouth Bass,Illegal Introduction,44.32166136,-64.54449579
+FITCH LITTLE,Smallmouth Bass,Illegal Introduction,44.2971624,-64.53863855
+FITCH LONG,Smallmouth Bass,Illegal Introduction,44.2978152,-64.53025675
+FOX POINT,Brook Trout,Natural Occurrence,44.60685084,-64.08450281
+FRANEY,Smallmouth Bass,Illegal Introduction,44.71169292,-64.65738585
+FRANK,Brook Trout,Natural Occurrence,44.51321261,-64.5859339
+GARBER,Brook Trout,Natural Occurrence,44.36540622,-64.62305356
+GOAT,Mummichog,Natural Occurrence,44.58262951,-64.21038502
+GRANT,Yellow Perch,Natural Occurrence,44.49607327,-64.70091032
+HALEY,Brown Trout,Legal Introduction,44.61420117,-64.69389489
+HANNIGAR,Brook Trout,Natural Occurrence,44.62888306,-64.33336658
+HARLEY,Brook Trout,Natural Occurrence,44.3916461,-64.71266002
+HARRIS,Smallmouth Bass,Illegal Introduction,44.77917594,-64.46920664
+HAYNES POND,Yellow Perch,Natural Occurrence,44.48074838,-64.6962272
+HEBB,Chain Pickerel,Illegal Introduction,44.34439484,-64.56753668
+HEBB MILL POND,Brown Bullhead,Natural Occurrence,44.32933803,-64.50901435
+HENRY,Brook Trout,Natural Occurrence,44.60004916,-64.35088934
+HIRTLE,Brook Trout,Natural Occurrence,44.47100681,-64.75113878
+HOLBERT,Brook Trout,Natural Occurrence,44.61100441,-64.5711764
+HOLLAHAN,Banded Killifish,Natural Occurrence,44.54205768,-64.10067054
+HOWEL,Brown Trout,Legal Introduction,44.74601145,-64.43667205
+HOWELL,American Eel,Natural Occurrence,44.74601145,-64.43667205
+HUEY,Brook Trout,Natural Occurrence,44.390574,-64.7300305
+HUTT,Brown Trout,Legal Introduction,44.58215843,-64.29438215
+ISLAND,Smallmouth Bass,Illegal Introduction,44.24685565,-64.57677931
+LARDER,Brook Trout,Natural Occurrence,44.61009497,-64.27583392
+LEWIE,Yellow Perch,Natural Occurrence,44.34204076,-64.6577354
+LITTLE JOE LONG,Brook Trout,Natural Occurrence,44.76024207,-64.27698637
+LITTLE MUSHAMUSH,Smallmouth Bass,Illegal Introduction,44.50962889,-64.50482791
+LITTLE WILES,Brook Trout,Natural Occurrence,44.40148676,-64.64338992
+LONESOME,American Eel,Natural Occurrence,44.64994997,-64.52731896
+MAPLE,Brook Trout,Natural Occurrence,44.63784195,-64.08212955
+MATTHEW,White Perch,Natural Occurrence,44.32860585,-64.68375808
+MILIPSIGATE,Chain Pickerel,Illegal Introduction,44.33328195,-64.60280042
+MILLET,Yellow Perch,Natural Occurrence,44.62762132,-64.31015442
+MINAMKEAK,Smallmouth Bass,Illegal Introduction,44.29348975,-64.60915051
+NAAS,Smallmouth Bass,Illegal Introduction,44.44737822,-64.46654363
+NEW CANADA,Smallmouth Bass,Illegal Introduction,44.48229143,-64.68930534
+NINEMILE,Brook Trout,Natural Occurrence,44.69823551,-64.29920001
+PEAR,Yellow Perch,Natural Occurrence,44.63784586,-64.62167968
+PERNETTE,Smallmouth Bass,Illegal Introduction,44.31616625,-64.46970382
+PINE,Brook Trout,Natural Occurrence,44.6678531,-64.5680315
+PUBLICOVER,Yellow Perch,Natural Occurrence,44.28881203,-64.5167748
+RHODENIZER,Smallmouth Bass,Illegal Introduction,44.45065499,-64.7099349
+RHODES,Smallmouth Bass,Illegal Introduction,44.36608542,-64.40182527
+RHYNO,White Perch,Natural Occurrence,44.42659055,-64.73560294
+SAND,Yellow Perch,Natural Occurrence,44.78016047,-64.577591
+SAWLER,Yellow Perch,Natural Occurrence,44.64660857,-64.06893793
+SEVEN MILE,White Perch,Natural Occurrence,44.44432395,-64.75926373
+SHINGLE  (EAST),Smallmouth Bass,Illegal Introduction,44.41458285,-64.81311027
+SOUTH CANOE,White Sucker,Natural Occurrence,44.79305178,-64.32858297
+STEVEMAN,White Perch,Natural Occurrence,44.38662169,-64.34103647
+SUCKER,Smallmouth Bass,Illegal Introduction,44.48934433,-64.59321007
+TEXAS,Smallmouth Bass,Illegal Introduction,44.60441968,-64.59805409
+TIMBER,American Eel,Natural Occurrence,44.69102753,-64.17512095
+VAUGHANS,Yellow Perch,Natural Occurrence,44.53377912,-64.35941249
+WAGNER,Smallmouth Bass,Illegal Introduction,44.47234141,-64.6802926
+WALLABACK,Smallmouth Bass,Illegal Introduction,44.81555149,-64.43327582
+WENTZELL,Smallmouth Bass,Illegal Introduction,44.32370601,-64.450353
+WHALEN,Brook Trout,Natural Occurrence,44.77742176,-64.42290335
+WHETSTONE,Brook Trout,Natural Occurrence,44.6599109,-64.65244088
+WILES,Brook Trout,Natural Occurrence,44.37455102,-64.5743284
+WOOLENHAUPT,Atlantic Salmon,Natural Occurrence,44.41676975,-64.70021692
+ZWICKERS STILLWATERS,Brook Trout,Natural Occurrence,44.51663393,-64.39999488
+BLACK BROOK,Brook Trout,Natural Occurrence,45.4329722,-62.16873573
+BOTANY BAY,Brook Trout,Natural Occurrence,45.47581216,-62.96238497
+BURROUGHS,Brook Trout,Natural Occurrence,45.44307448,-62.43050021
+CALDER,Three Spine Stickleback,Natural Occurrence,45.47136726,-62.63580251
+CAMPBELL,Brook Trout,Natural Occurrence,45.49144953,-62.42028655
+COLE,White Perch,Natural Occurrence,45.71802394,-62.64520258
+D,Golden Shiner,Natural Occurrence,45.36747809,-62.30320384
+DRYDEN,Yellow Perch,Natural Occurrence,45.39134975,-62.77735455
+EDEN,Atlantic Salmon,Natural Occurrence,45.40084618,-62.29882004
+ELBOW,Brook Trout,Natural Occurrence,45.34243472,-62.65377236
+FORBES,Brook Trout,Natural Occurrence,45.49828734,-62.63788169
+GAIRLOCH,Brook Trout,Natural Occurrence,45.48019867,-62.83423791
+GALT,White Perch,Natural Occurrence,45.68413976,-62.31858419
+GUNN,Brook Trout,Natural Occurrence,45.42122201,-62.18195852
+INNER PICTOU HBR.,White Perch,Natural Occurrence,45.66668887,-62.73333652
+JOHN MILLER,Yellow Perch,Natural Occurrence,45.36729303,-62.27350367
+KING,Brook Trout,Natural Occurrence,45.58336725,-62.49999617
+LANSDOWNE,Smallmouth Bass,Illegal Introduction,45.43823628,-62.82304545
+MACKAYS,Brook Trout,Natural Occurrence,45.46454959,-62.1254835
+MACKINNON,Brook Trout,Natural Occurrence,45.36178153,-62.52662053
+MACLEANS,Brook Trout,Natural Occurrence,45.46564474,-62.61991341
+MACPHERSON'S,Brook Trout,Natural Occurrence,45.46618223,-62.54530653
+MILLDAM,Yellow Perch,Natural Occurrence,45.38182946,-62.28049595
+NORMAN'S,Brook Trout,Natural Occurrence,45.42662031,-62.4341427
+PATTERSONS POINT(NEAR GALT POND),Brook Trout,Natural Occurrence,45.69997825,-62.33333087
+PIPER'S,Brook Trout,Natural Occurrence,45.3474079,-62.66124803
+SUTHERLANDS,Atlantic Salmon,Natural Occurrence,45.43185228,-62.38411658
+UPPER DAM,Yellow Perch,Natural Occurrence,45.38182946,-62.28049595
+WHITE,Brook Trout,Natural Occurrence,45.37917132,-62.27295562
+Z,Brook Trout,Natural Occurrence,45.37632345,-62.30715664
+ANNIS,Smallmouth Bass,Illegal Introduction,44.32997337,-64.84018876
+BAR,Chain Pickerel,Illegal Introduction,44.0069998,-64.72097287
+BARNIE,Brook Trout,Natural Occurrence,44.37522626,-65.14625676
+BEACH,Yellow Perch,Natural Occurrence,44.44463632,-64.99747955
+BEAVERHEAD,Yellow Perch,Natural Occurrence,44.43562513,-65.14675852
+BEAVERTAIL,White Perch,Natural Occurrence,44.3293088,-64.78564669
+BEAVERTAIL BASIN,Yellow Perch,Natural Occurrence,44.3293088,-64.78564669
+BIG ROBERTSON,Yellow Perch,Natural Occurrence,43.8802782,-64.89439951
+BIG SIXTEEN MILE BAY,White Perch,Natural Occurrence,44.24998986,-64.96666604
+BLACK RATTLE,White Perch,Natural Occurrence,44.3389607,-64.81868042
+BROPHY,Yellow Perch,Natural Occurrence,44.17907646,-65.2525435
+CADEUSKY,White Perch,Natural Occurrence,44.15128125,-65.2237508
+CANNON,Smallmouth Bass,Illegal Introduction,44.34925266,-65.14389051
+DUNN (EAST),White Perch,Natural Occurrence,44.26551099,-65.28395748
+DUNN (WEST),Brook Trout,Natural Occurrence,44.26551099,-65.28395748
+EIGHTH,Brook Trout,Natural Occurrence,44.12682335,-65.22680732
+FIRST BEAVER,Brook Trout,Natural Occurrence,44.21597901,-65.33371563
+FIRST CHRISTOPHER,White Perch,Natural Occurrence,44.33296686,-64.96839703
+FIRST RING,Yellow Perch,Natural Occurrence,44.25242416,-65.2447459
+GREAT PINE,Yellow Perch,Natural Occurrence,44.21727117,-65.37582827
+HARLOW,Yellow Perch,Natural Occurrence,44.28419039,-65.28628565
+HARMONY,White Perch,Natural Occurrence,44.39715144,-65.10496828
+HEN,Yellow Perch,Natural Occurrence,44.42558071,-65.00090062
+HERRING COVE,Smallmouth Bass,Illegal Introduction,44.12470916,-64.71853809
+HIDDEN HILLS,Rainbow Trout,Legal Introduction,44.34998125,-64.84999906
+HOG,Brook Trout,Natural Occurrence,44.37780918,-64.91496906
+HUNT,White Perch,Natural Occurrence,44.37749404,-65.00158391
+JORDAN,Brown Bullhead,Natural Occurrence,44.08306605,-65.23613069
+LITTLE PONHOOK,Brook Trout,Natural Occurrence,44.30117394,-64.85072173
+LITTLE ROBERTSON,Brown Trout,Legal Introduction,43.88710949,-64.90050445
+LITTLE SILVER,Yellow Perch,Natural Occurrence,44.17776322,-65.28240482
+LITTLE TUPPER,White Perch,Natural Occurrence,44.42344514,-64.96315316
+MARY,White Perch,Natural Occurrence,44.37134303,-65.02366528
+MCGOWAN,Brook Trout,Natural Occurrence,44.4285525,-65.05658284
+MEAGHER,Yellow Perch,Natural Occurrence,44.35069804,-65.02019417
+MENCHAN,Brook Trout,Natural Occurrence,44.33495895,-65.10893772
+MINARD,Brook Trout,Natural Occurrence,44.42469052,-65.16800352
+MOLEGA,White Perch,Natural Occurrence,44.3624945,-64.85004156
+MORTON,Yellow Perch,Natural Occurrence,44.27701699,-65.28484195
+NICKERSON'S,Smallmouth Bass,Illegal Introduction,44.0747391,-64.70667557
+PATH,Chain Pickerel,Illegal Introduction,43.87152373,-64.92794962
+PONHOOK,Smallmouth Bass,Illegal Introduction,44.31357734,-64.88500432
+ROBERTSON,Chain Pickerel,Illegal Introduction,43.8802782,-64.89439951
+ROSSIGNOL,White Perch,Natural Occurrence,44.20004146,-65.11670689
+SCOTT,Smallmouth Bass,Illegal Introduction,44.37327411,-65.08150695
+SECOND BEAVER,Yellow Perch,Natural Occurrence,44.21045228,-65.322182
+SECOND CHRISTOPHER,Brook Trout,Natural Occurrence,44.32119811,-64.98774212
+SECOND RING,Brook Trout,Natural Occurrence,44.11041287,-65.09489778
+SISKECH,Yellow Perch,Natural Occurrence,44.25762863,-65.34854157
+TELFER,White Perch,Natural Occurrence,44.29838581,-65.04076251
+THIRD CHRISTOPHER,White Perch,Natural Occurrence,44.31217661,-65.01958642
+TOBEATIC,Brook Trout,Natural Occurrence,44.20154755,-65.28158376
+TURTLE,Brook Trout,Natural Occurrence,44.36327835,-65.13527873
+VICTORIA,Brown Trout,Legal Introduction,43.99781101,-64.68509907
+WAGNERS,Brook Trout,Natural Occurrence,44.0835952,-64.58570005
+BARREN HILL,Brook Trout,Natural Occurrence,45.70456473,-60.58925843
+BENJAMINS,Brook Trout,Natural Occurrence,45.73875658,-60.61440811
+BUCHANAN,Brook Trout,Natural Occurrence,45.64692217,-61.10269228
+CONDON,White Perch,Natural Occurrence,45.64327228,-60.78965204
+DUNCANS,White Perch,Natural Occurrence,45.60484214,-60.72571023
+FERGUSON,White Perch,Natural Occurrence,45.64947864,-60.60638313
+GARRETS,Brook Trout,Natural Occurrence,45.64541804,-60.77500217
+L'ARDOISE LONG,Brook Trout,Natural Occurrence,45.63060564,-60.7267335
+LAUCHLIN,White Perch,Natural Occurrence,45.65174682,-61.12778737
+MACKENZIES,Brook Trout,Natural Occurrence,45.71519362,-60.83208388
+MACLEODS,Rainbow Trout,Legal Introduction,45.6875216,-60.71018545
+POTTIE,White Perch,Natural Occurrence,45.52562839,-61.00991363
+SAMPSON,Brook Trout,Natural Occurrence,45.60625315,-61.04492002
+SEC,White Perch,Natural Occurrence,45.56155658,-61.00553133
+SHAW,Brook Trout,Natural Occurrence,45.54316319,-61.00891053
+UIST,Atlantic Salmon,Natural Occurrence,45.79682362,-60.56799947
+UPPER MARIE JOSEPH,Brook Trout,Natural Occurrence,45.6891446,-60.41515303
+ALVIN,Brook Trout,Natural Occurrence,43.72327894,-65.40085009
+BACK,Yellow Perch,Natural Occurrence,43.99660205,-65.4231238
+BEAVERDAM,Yellow Perch,Natural Occurrence,43.90299595,-65.3875935
+CANADA HILL,Brook Trout,Natural Occurrence,43.81088339,-65.1331822
+CANADA HILL BOG,Brook Trout,Natural Occurrence,43.81088339,-65.1331822
+CHURCHOVER,Yellow Perch,Natural Occurrence,43.70622108,-65.38130365
+CLAMSHELL,Smallmouth Bass,Illegal Introduction,44.04191866,-65.47625663
+COURTNEY,Brook Trout,Natural Occurrence,43.82268035,-65.37488778
+DECEPTION,Smallmouth Bass,Illegal Introduction,43.901002,-65.37527371
+DEXTER,Yellow Perch,Natural Occurrence,43.64317482,-65.35624564
+GEORGE,Chain Pickerel,Illegal Introduction,43.80185397,-65.29702658
+GREENWOOD,Yellow Perch,Natural Occurrence,43.5978337,-65.42331993
+HALFMOON,Yellow Perch,Natural Occurrence,44.20318901,-65.3862629
+HANDSLED,Yellow Perch,Natural Occurrence,44.19979907,-65.3674667
+HARPERS,Brook Trout,Natural Occurrence,43.80596176,-65.45867506
+JUNCTION,Yellow Perch,Natural Occurrence,44.22702998,-65.39137066
+LITTLE TOBEATIC,White Perch,Natural Occurrence,44.25242416,-65.2447459
+LONGVIEW,Brook Trout,Natural Occurrence,44.08874364,-65.30824382
+MCKAY (EAST),Yellow Perch,Natural Occurrence,43.91870552,-65.40695494
+MCKAY (WEST),Yellow Perch,Natural Occurrence,43.91870552,-65.40695494
+MINK,Yellow Perch,Natural Occurrence,44.14810039,-65.42426536
+MULLINS,Brook Trout,Natural Occurrence,44.1201723,-65.28097278
+ODGEN,Brook Trout,Natural Occurrence,43.77701614,-65.21434935
+PHILIP,Yellow Perch,Natural Occurrence,43.9707347,-65.42020129
+ROSEWAY,Yellow Perch,Natural Occurrence,44.17147906,-65.39579065
+SILVERY,Brook Trout,Natural Occurrence,44.13273415,-65.39731044
+SKUDIAK,Yellow Perch,Natural Occurrence,44.13309084,-65.42306337
+TIDNEY MEADOWS,Brook Trout,Natural Occurrence,43.84997896,-65.03332922
+WAINWRIGHT,Brook Trout,Natural Occurrence,44.14838635,-65.39364296
+WALLS,Chain Pickerel,Illegal Introduction,43.77443518,-65.06865216
+WELSHTOWN,Brook Trout,Natural Occurrence,43.84316862,-65.40688714
+WEST HORESHOE,Smallmouth Bass,Illegal Introduction,44.03484385,-65.4828132
+BELL,Brook Trout,Natural Occurrence,46.29084708,-60.73351985
+BONNIE,Brook Trout,Natural Occurrence,46.38106666,-60.68157961
+DALEM,Brook Trout,Natural Occurrence,46.25010867,-60.42893216
+FRENCH RIVER,Brook Trout,Natural Occurrence,46.51707922,-60.53218209
+INGONISH,Brook Trout,Natural Occurrence,46.59996076,-60.61667147
+LARKIN,Brook Trout,Natural Occurrence,45.4000039,-61.98333767
+MACDONALDS PONDS,Brook Trout,Natural Occurrence,46.31728141,-60.71863338
+MACKILLOPS,White Perch,Natural Occurrence,46.1095952,-60.68042869
+MORRISONS,Brook Trout,Natural Occurrence,46.86940029,-60.56915066
+PATTERSON,Brook Trout,Natural Occurrence,46.23674312,-60.451023
+SIEFERTS,Brook Trout,Natural Occurrence,46.39866847,-60.68857402
+SNAKE CAT,Brook Trout,Natural Occurrence,46.28829117,-60.71815014
+AGARD,Smallmouth Bass,Illegal Introduction,43.91780893,-66.00001958
+ALLEN,Smallmouth Bass,Illegal Introduction,43.95057184,-66.14419463
+BEAVERCREEK,Yellow Perch,Natural Occurrence,44.08109041,-65.51705791
+BEAVERHOUSE,Smallmouth Bass,Illegal Introduction,44.04844085,-65.8017241
+BENNETTS,White Perch,Natural Occurrence,43.91918556,-65.90146761
+BIGGARS,Brook Trout,Natural Occurrence,43.92117796,-65.77050477
+BOWER,Atlantic Salmon,Natural Occurrence,44.08764245,-65.77434693
+BRAZIL,White Perch,Natural Occurrence,44.00630928,-66.00002736
+BRENTON,White Perch,Natural Occurrence,43.96102813,-66.06761925
+BUNKERS,White Perch,Natural Occurrence,43.91975397,-66.07913444
+BUTLERS,White Perch,Natural Occurrence,43.92529822,-66.123604
+CEDAR,White Perch,Natural Occurrence,44.02375381,-66.1118052
+CHURCHILLS,White Perch,Natural Occurrence,43.98920356,-66.14061139
+CHURCHILLS MILL,Yellow Perch,Natural Occurrence,43.8600447,-66.0563598
+CRAIN,Yellow Perch,Natural Occurrence,44.12848664,-65.46987314
+CROSBY'S,Yellow Perch,Natural Occurrence,44.0275801,-66.08360564
+DARLING,Smallmouth Bass,Illegal Introduction,43.96510737,-66.12632701
+DEMOLITER,Yellow Perch,Natural Occurrence,43.95804906,-65.42402337
+DOCTOR,White Perch,Natural Occurrence,43.88488719,-66.10000416
+ELLENWOOD,White Perch,Natural Occurrence,43.92676779,-65.98797596
+ENGLISH CLEARWATER,White Perch,Natural Occurrence,43.86093206,-65.87666397
+FANNING,Smallmouth Bass,Illegal Introduction,44.01523517,-65.91614365
+FIRST BEAR,Yellow Perch,Natural Occurrence,44.12175921,-65.66879896
+FREEMANS,Brook Trout,Natural Occurrence,43.88708288,-65.86068188
+FRENCH,Yellow Perch,Natural Occurrence,43.63954691,-65.70686485
+FRENCH CLEARWATER,White Perch,Natural Occurrence,43.88499127,-65.91842848
+FROST,White Perch,Natural Occurrence,43.79871388,-65.84814303
+GILLFILLAN,Brook Trout,Natural Occurrence,43.95071905,-65.80326949
+GREAT BARREN,Brook Trout,Natural Occurrence,43.8460315,-65.73185342
+GREAT PUBNICO,Brook Trout,Natural Occurrence,43.72157315,-65.67996899
+HAMILTON,Brook Trout,Natural Occurrence,44.10637284,-65.92212372
+JAMES,White Perch,Natural Occurrence,43.93667927,-65.7772676
+JANES,Brook Trout,Natural Occurrence,44.00803354,-65.87350374
+JESSE,Brook Trout,Natural Occurrence,44.03335353,-66.00895501
+KEGESHOOK,Brook Trout,Natural Occurrence,43.96029304,-65.79099423
+KEMPT BACK,Smallmouth Bass,Illegal Introduction,44.06417368,-65.85352107
+KILLAMS,White Perch,Natural Occurrence,44.00653295,-66.07953287
+LAC a PIC,Brook Trout,Natural Occurrence,43.90218071,-65.83652661
+LITTLE BRAZIL,Yellow Perch,Natural Occurrence,43.99593755,-66.01097797
+LOUIS,Brook Trout,Natural Occurrence,43.93082686,-65.75498205
+MARCEL,White Perch,Natural Occurrence,43.88477197,-65.89521442
+MILO,White Perch,Natural Occurrence,43.8606336,-66.11452373
+MINGO BECK,White Perch,Natural Occurrence,43.87260922,-65.89909301
+MOSES,White Perch,Natural Occurrence,43.86852255,-65.84320442
+MUSHPAUK,Yellow Perch,Natural Occurrence,43.85389041,-65.80871682
+OGDEN,Smallmouth Bass,Illegal Introduction,44.05382244,-65.90341988
+PARR,Smallmouth Bass,Illegal Introduction,44.08956754,-65.90329576
+QUINAN,Chain Pickerel,Illegal Introduction,43.91965677,-65.82923645
+RANDALS,White Perch,Natural Occurrence,43.83681824,-65.85814062
+RAYNARDS,Smallmouth Bass,Illegal Introduction,43.96242397,-65.9182186
+RODNEYS,White Perch,Natural Occurrence,43.91410241,-66.13790049
+ROUNDING,American Eel,Natural Occurrence,44.04348667,-65.92740314
+SALMON,Brook Trout,Natural Occurrence,44.13416097,-65.87011745
+SLOANS,Smallmouth Bass,Illegal Introduction,43.98216553,-65.92780202
+SOLOMON,Brook Trout,Natural Occurrence,44.0469227,-65.73813061
+SOMES,White Perch,Natural Occurrence,43.95990471,-65.89694401
+SUNDAY,Chain Pickerel,Illegal Introduction,44.11004432,-65.78976527
+TAYLORS,Brook Trout,Natural Occurrence,43.90886077,-66.12549553
+TREFRY,Brown Bullhead,Natural Occurrence,43.83443184,-66.0445164
+TWO ISLAND,White Perch,Natural Occurrence,44.03080272,-66.07093232
+VAUGHAN,Smallmouth Bass,Illegal Introduction,43.90711693,-65.95777767
+WELLINGTON,Brook Trout,Natural Occurrence,43.94998101,-66.08333791
+WHESTONE,Yellow Perch,Natural Occurrence,44.10418758,-65.4819047
+WILSONS,White Perch,Natural Occurrence,43.92855864,-65.88331238
